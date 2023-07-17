@@ -82,7 +82,7 @@ This is an application that provides the students an option to automatically mar
 <ul>
   <li><a href="https://github.com/itzMEshv">Meshv</a> - Group Leader</li>
   <li><a href="https://github.com/prashr24">Praneet Shroff</a></li>
-  <li><a href="https://github.com/vatsalsutariya">Vatsal Sutariya</a></li> 
+  <li><a href="https://github.com/vatsalpsutariya">Vatsal Sutariya</a></li> 
   <li><a href="https://github.com/poojan021102">Poojan Patel</a></li>
   <li><a href="https://github.com/devmalkan">Dev Malkan</a></li>
 </ul>
